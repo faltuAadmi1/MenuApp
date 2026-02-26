@@ -1,4 +1,4 @@
-# 🃏 Card Attack
+
 
 **Card Attack** is a minimal iOS app where players can compete against the CPU in a simple card-based battle. Built with Swift, the app features a clean interface and smooth functionality, compatible with iPhone 16 Pro and above.
 
